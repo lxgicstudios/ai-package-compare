@@ -1,0 +1,33 @@
+{
+  "name": "ai-package-compare",
+  "version": "1.0.0",
+  "description": "Compare npm packages side-by-side - size, downloads, maintenance, and AI recommendation",
+  "main": "index.js",
+  "bin": {
+    "ai-package-compare": "./index.js"
+  },
+  "keywords": [
+    "npm",
+    "compare",
+    "packages",
+    "cli",
+    "analysis",
+    "bundle-size",
+    "ai"
+  ],
+  "author": "LXGIC Studios",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxgicstudios/ai-package-compare"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "openai": "^4.28.0",
+    "ora": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
