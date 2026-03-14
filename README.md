@@ -108,6 +108,24 @@ export OPENAI_API_KEY=your-key
 npx ai-package-compare zustand jotai redux
 ```
 
+## FAQ
+
+### Where does the data come from?
+
+Bundle sizes from Bundlephobia, download counts from npm registry, maintenance data from npms.io. All real-time.
+
+### Can I compare packages from different registries?
+
+Currently npm only. Support for other registries is planned.
+
+### Why does the AI sometimes recommend the lower-scored package?
+
+The score is objective metrics. The AI considers your use case, bundle size tradeoffs, and ecosystem fit. Sometimes smaller/newer is better.
+
+### How often is pricing/bundle data updated?
+
+Data is fetched live on each run. Bundle sizes update when packages publish new versions.
+
 ## License
 
 MIT
