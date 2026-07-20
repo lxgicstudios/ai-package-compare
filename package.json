@@ -13,7 +13,15 @@
     "cli",
     "analysis",
     "bundle-size",
-    "ai"
+    "ai",
+    "developer-tools",
+    "devtools",
+    "dependencies",
+    "developer-experience",
+    "automation",
+    "typescript",
+    "decision-making",
+    "package-management"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",

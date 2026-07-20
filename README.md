@@ -2,6 +2,15 @@
 
 Compare npm packages side-by-side. See size, downloads, maintenance, and get an AI recommendation.
 
+
+## Works With
+
+- 🤖 Claude / Claude Code
+- 🔵 Cursor
+- 💚 GPT / ChatGPT
+- ⚡ Copilot
+- 🧩 MCP servers
+
 ## Install
 
 ```bash
